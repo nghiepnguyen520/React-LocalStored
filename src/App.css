@@ -1,0 +1,65 @@
+.main {
+  text-align: center;
+  display: flex;
+  justify-content: space-around; 
+}
+
+.main2 {
+  text-align: center;
+
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.taskfrom{
+  
+
+}
+.ui.segment:first-child{
+  background-color: rgb(240, 140, 149)
+}
+.ui.red.button{
+  margin-left: 200px;
+}
+.taskfrom2{
+  width: 65%;
+}
+.taskfrom2-2{
+  width: 85%;
+  margin: 0px auto;
+}
+.buttonAdd{
+  margin-top: 15px;
+}
+.ui.table thead tr>th:first-child{
+  width: 10px;
+}
+.tablets{
+  margin-top: 15px;
+}
+.ui.table thead tr:first-child>th:last-child{
+  width: 200px;
+}
+.edit{
+  width: 300px;
+}
